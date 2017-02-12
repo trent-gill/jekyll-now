@@ -1,6 +1,5 @@
 ---
 title: Trent Recommends How Should A Person Be By Sheila Heti
-date: 2016-02-25
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Back To Blogging Experimentations In Grav Cms
-date: 2015-12-12
 layout: post
 ---
 

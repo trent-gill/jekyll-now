@@ -1,6 +1,5 @@
 ---
 title: My 2016 In Media And Culture A Year In Review
-date: 2017-01-10
 layout: post
 ---
 

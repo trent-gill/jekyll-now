@@ -1,6 +1,5 @@
 ---
 title: Supporting Openly Licensed Content
-date: 2015-12-23
 layout: post
 ---
 

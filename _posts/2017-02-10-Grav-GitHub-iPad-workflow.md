@@ -1,6 +1,5 @@
 ---
 title: iPad Workflow for Updating Grav via GitHub
-date: 2017-10-02
 layout: post
 ---
 

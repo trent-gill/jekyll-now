@@ -1,6 +1,5 @@
 ---
-title: Race Report: WFPS Half 2016
-date: 2016-10-22
+title: Race Report - WFPS Half 2016
 layout: post
 ---
 

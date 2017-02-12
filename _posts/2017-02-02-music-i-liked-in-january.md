@@ -1,6 +1,5 @@
 ---
 title: Music I Liked in January
-date: 2017-02-02
 layout: post
 ---
 

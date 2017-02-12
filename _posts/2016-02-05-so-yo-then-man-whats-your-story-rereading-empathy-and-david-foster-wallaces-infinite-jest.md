@@ -1,6 +1,5 @@
 ---
 title: So Yo Then Man Whats Your Story: Rereading, Empathy, And David Foster Wallace's Infinite Jest
-date: 2016-02-05
 layout: post
 ---
 

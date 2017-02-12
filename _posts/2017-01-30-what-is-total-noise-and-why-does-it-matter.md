@@ -1,6 +1,5 @@
 ---
 title: Fake News and Total Noise: A Primer
-date: 2017-01-30
 layout: post
 ---
 

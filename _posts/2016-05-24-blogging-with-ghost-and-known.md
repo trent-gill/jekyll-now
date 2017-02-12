@@ -1,6 +1,5 @@
 ---
 title: Blogging With Ghost And Known
-date: 2016-05-24
 layout: post
 ---
 
