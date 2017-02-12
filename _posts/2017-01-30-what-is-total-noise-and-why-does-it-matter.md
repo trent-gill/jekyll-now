@@ -1,6 +1,7 @@
 ---
-title: 'Fake News and Total Noise: A Primer'
-date: 2017-01-30 00:00:00 Z
+title: Fake News and Total Noise: A Primer
+date: 2017-01-30
+layout: post
 ---
 
 Let's start with a question: What's worse, "fake news" or the inability to think?

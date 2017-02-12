@@ -1,6 +1,7 @@
 ---
 title: Supporting Openly Licensed Content
-date: 2015-12-23 00:00:00 Z
+date: 2015-12-23
+layout: post
 ---
 
 [Clint Lalonde's blog](http://clintlalonde.net) is one of the inspirations for my (re)commitment to blogging, and he regularly shares perceptive commentary about the role of openly licensed content in education. As you can tell from his blog, he also knows his way around ed-tech.

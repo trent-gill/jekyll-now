@@ -1,6 +1,7 @@
 ---
 title: Music I Liked in January
-date: 2017-02-02 00:00:00 Z
+date: 2017-02-02
+layout: post
 ---
 
 In my [year in review](http://blog.trentgill.ca/my-2016-in-media-and-culture-a-year-in-review/), I mentioned that I want to listen to more music in 2017. It's been some time since I've kept up with current releases from bands I enjoy, but anticipating albums is a familiar experience for me. I'm happy to report that this subtle change to my "media diet" is a welcome one.

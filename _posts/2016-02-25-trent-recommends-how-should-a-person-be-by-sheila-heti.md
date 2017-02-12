@@ -1,6 +1,7 @@
 ---
 title: Trent Recommends How Should A Person Be By Sheila Heti
-date: 2016-02-25 00:00:00 Z
+date: 2016-02-25
+layout: post
 ---
 
 The first instalment in _Trent Recommends_ is Sheila Heti’s _How Should a Person Be?_, a “novel” that shows the promise and emotional range of an emerging talent in Canadian literature.

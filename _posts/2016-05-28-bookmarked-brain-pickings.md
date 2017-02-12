@@ -1,6 +1,7 @@
 ---
 title: Bookmarked Brain Pickings
-date: 2016-05-28 00:00:00 Z
+date: 2016-05-28
+layout: post
 ---
 
 #####The web and the "tyranny of choice"

@@ -1,6 +1,7 @@
 ---
 title: Back To Blogging Experimentations In Grav Cms
-date: 2015-12-12 00:00:00 Z
+date: 2015-12-12
+layout: post
 ---
 
 In the not-so-distance past, when I was growing up and technology was growing with me, we published content to the web by messing around with free internet services. The "content editor" was a plain text box where you put HTML.

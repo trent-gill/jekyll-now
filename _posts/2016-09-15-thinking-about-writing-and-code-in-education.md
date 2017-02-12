@@ -1,6 +1,7 @@
 ---
 title: Thinking About Writing And Code In Education
-date: 2016-09-15 00:00:00 Z
+date: 2016-09-15
+layout: post
 ---
 
 Lately, I've been investigating a few different solutions for public-facing course websites. Why does it interest me so much? I spent several years in the classroom as a student, and a few more as an instructor. My growing interest in basic web "hacking" and "development" (I put those in quotes because I'm ignorant of both) has led me to imagine what a course "optimized for the web" might look like. This is an entire field of study, of course, and I'm fairly new to it. Most of my contributions include shallow assessments and blanket statements like "This is cool" and "All courses should be like this!," but curiousity is how I learn, so I'll continue fumbling blindly through the darkness until someone tells me not to. 
