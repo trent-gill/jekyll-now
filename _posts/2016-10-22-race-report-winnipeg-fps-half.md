@@ -1,0 +1,76 @@
+---
+title: Race Report - WFPS Half 2016
+date: 2016-10-22 00:00:00 Z
+---
+
+### Race information
+* **What?** Winnipeg Fire & Paramedic Services Half
+* **When?** October 16, 2016
+* **How far?** 21.1 kilometers
+* **Website?** http://wfpshalfmarathon.com/
+
+### Goals
+A Goal: < 1:33 (PR)
+
+B Goal: Run an even split 
+
+### Training
+This race was five weeks after my first marathon, the Regina Queen City Marathon on September 11th. For that race, my buildup was based on Strength Running's Injury Prevention for Runners' Intermediate Marathon Plan. I averaged 85 kilometers per week and peaked at 100 kilometers, with long runs between 28-35k. The marathon didn't go well, so I was fairly useless for two weeks after, but I ran 75k two weeks ago and three workouts and one rehearsal to gauge half-marathon pace:
+
+* 2 x 5k at Half-Marathon Effort w/ 1k recovery
+* 22k Progression Run w/ 8k at HM Pace
+* 5 x 2k at HM Pace
+* 12k Progression to HM Pace
+
+### Pre-race
+I was staying at a friend's house in the city the night before the race. I didn't get a great sleep, but the clear skies in the morning had me in good spirits. I drank water and coffee on the way to the race and picked up two bagels from Tim Hortons on the drive to the race start. I was there about an hour ahead of time, so I fretted about what to wear and walked around the campus to pass the time. It was cold out so I settled on a long-sleeve under a t-shirt and shorts. At 7:30 I braved the outdoors for a 10 minute jog and I could see my breath. I did a few half-hearted strides and headed over to the starting chute to wait for the gun.
+
+### Kilometers [0] to [5]: "Is now really the best time for tight calves?"
+The "front corral" consisted of anyone under 1:35, so everyone from the faster guys (winner of 1:16) to the 1:35 pace group started in the same crowd. I went with the flow of traffic down the first block. As everyone started spacing out, I settled into a comfortable pace of 4:30 (/km, obv) to see how the legs would respond after four weeks of mediocre training. The first kilometer felt okay, but the few people I was running with surged ahead. I was passed by several people but I was more worried about how tight my calves felt in this stretch, which has been my Achilles Heel since I started this hobby. Conclusion: I should've warmed up more. I eased off a little bit so I could warmup for kilometers 3 and 4. I was also running with a few people who seemed a little in over their heads at this pace, and it was getting to me psychologically, so I picked it up and decided to join a group of people who had passed me in the early stages. 
+
+_Splits_: 4:26, 4:28, 4:32, 4:32, 4:20
+
+### Kilometers [6] to [10]: "Don't be a hero."
+I joined a scattered group of people who were running a pace that felt comfortable for me now that I was warmed up. From a bit of the chatter I could tell that most of them were shooting for sub 1:30. I didn't have the heart to tell them that they were already off pace, but I was glad to have some company. A couple of the guys seemed to realize the pace problem, so they went ahead and I was left to run with a girl who had a PR of 1:31. I congratulated her on being awesome as local female placers are usually sub-1:30 around Winnipeg, which held true for this race. For most of this section, we were tailing a guy trying to break 1:30 who was struggling mightily and didn't seem interested in talking.
+
+_Splits_:  4:17, 4:22, 4:27, 4:24, 4:16
+
+### Kilometers [11] to [15]: "These flashbacks are largely unpleasant."
+As you can tell from the spoiler alert in my 10th kilometer split, I decided to open up a bit after the 10k mat. The first half of the race is largely on Portage Avenue, Winnipeg's busiest street. I love running on busy streets because it gives me a mental boost, but I hadn't really taken advantage of it at all until about 10k. After we passed the 10k mat there was a slight downhill that goes under an overpass, so I made a move then to see whether I had another gear. The downhill is a bit of a tease, though, because the road goes right back into an uphill. I think it was around here that I joined and passed another group of runners. Anyway, the course then turned into mostly residential streets, and it was here where I blew up chasing 1:30 last year. I felt a lot better this time but tried to reign it in as I still had several miles left. I passed a few more people and tried to focus my mechanics and my pace. I promised myself that if I had another gear, I could use it after 16k. I deluded myself into thinking that I could run a 20 minute 5k to close the race, and that gave me a bit of a mental boost.
+
+_Splits_: 4:21, 4:23, 4:25, 4:21, 4:21
+
+### Kilometers [16] to [20]: "Not passing anyone, but not getting passed either."
+As it turns out, I did not have another gear. Part of the problem was that my hip tightened up during this stretch, which made me unable to open up my stride much. I even experienced what I can only call "the flinch." Another part of the problem is that I'm just not very fast. I laughed at my fantasy of a steep negative split and just kept plugging away to hit my goal pace of 4:20-5 per kilometer. I had my sights on a guy that was a few seconds ahead of me during this section, but he looked strong and eventually pulled away as I continued to chase down my splits. Although it was a flat race, there are a few gentle inclines during these miles that set me back a bit.  
+
+The sub-heading isn't exactly honest, though. I was passed by someone who looked like he was 17, but I reminded myself that his heart-rate probably goes to like 200. I didn't have anything to go with him, so I said "Good job, man!", and he returned the favour.
+
+Around the 20th kilometer there was a huge crowd of people waiting to cheer on the runners at one of the aid stations. This gave me a huge boost. My legs were going numb from the cold and from running, I guess, but I felt great to be a mediocre runner at that point.
+
+_Splits_: 4:26, 4:31, 4:31, 4:29, 4:30
+
+### Kilometer [21.1]
+
+I remembered the course route from last year so I knew that I was getting close to the finish. I decided to wind it up a bit around 20k to see what I had left. I didn't have much, but a few blocks from the finish I turned back onto the road where the race started. It was here that the half-marathon runners join the people finishing the 5k or 10k (I'm not really sure which). I knew I would probably complete my goal regardless, but I decided to kick with 500 meters to go, just to prove that I was a RealRunner™. This is literally the first race where I've had enough left for a sprint finish, so it felt pretty good to blast by crowds of other runners.
+
+I crossed the line in 1:32:21 (chip), 1:32:24 (official). ([Strava](https://www.strava.com/activities/746677522) and [Official Results](https://www.sportstats.ca/display-results.xhtml?raceid=40576&status=results&bib=527))
+
+The Strava data is a bit wonky because I forgot to press "finish" on my watch after I stopped it at the finishing line, but if you look at the "moving time" you can see what's up. I have bonked hard several times in my short running career, but never enough for a 15 minute kilometer.
+
+### Post-race
+I rang the PR bell and it felt somewhat anticlimactic because of how many 5k/10k finishers were coming in around the same time. The finish line was kind of hectic, which I guess is par for the course. Still, I was finished early enough that I didn't have to wait much in the food tent, so I grabbed a few things and stretched. I should've done a proper cool down, but I didn't, so I grabbed my bag and wandered around for a bit before heading back to my car.  
+
+### What's next?
+Recovery and easy running! Forever!
+
+In all seriousness, I won't be racing until spring. I live in Manitoba where the temperature dips down to -30 C, so there's not much outdoor racing going on until March at the earliest. I plan to target a June marathon and a fall marathon next year to get redemption on the distance, but I'd also like to work on speed so I can flirt with 1:30 in the half at a spring race (or at this same race next year).
+
+I'd also like to maintain a steady base over the winter so I can jump into training without much resistance. "Maintaining a base" in Manitoba means a lot of treadmill running or braving the cold, but since I'm no longer working two jobs like I was last year, I like my chances a lot better. AR will surely keep me motivated!
+
+*****
+
+_Mile Splits_: 7:10, 7:16, 7:08, 6:55, 7:09, 7:00, 6:58, 7:04, 7:00, 7:07, 7:14, 7:14, 7:03.
+
+*****
+
+*This report was generated using [race reportr](http://racereportr.azurewebsites.net), a tool built by [/u/BBQLays](https://www.reddit.com/u/bbqlays) for making great looking and informative race reports.*
