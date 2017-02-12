@@ -1,6 +1,6 @@
 ---
 title: iPad Workflow for Updating Grav via GitHub
-date: 2017-10-02 13:34:00 Z
+date: 2017-02-10 13:34:00 Z
 ---
 
 Through my [day job](http://campusmanitoba.ca/), I'm regularly exposed to innovative work happening in educational technology and open educational resources. Some of the time, a project peaks my curiousity enough that I can't help but dabble in the technology myself. As of late, this led me to installing a CMS called Grav to create an "online course hub" that can be used with GitHub to create an open, collaborative platform on the web. Here's what I've learned. 
