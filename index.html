@@ -6,10 +6,10 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
-{% if post.category == "microblog" %}
+{% if post.title == "" %}
       
     <div class="entry">  
-    {{ post.content | strip_html | truncatewords:5 }}
+    {{ post.content }}
      </div>  
       
      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Permalink</a>
