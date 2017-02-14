@@ -22,7 +22,6 @@ html {
 body {
 	background: $white;
 	font-family: 'Nunito', sans-serif;
-	size: 18px;
   color: $darkGray;
 }
 
@@ -69,6 +68,7 @@ h4 {
 
 p {
   margin: 15px 0;
+  font-size: 18px;
 }
 
 a {
