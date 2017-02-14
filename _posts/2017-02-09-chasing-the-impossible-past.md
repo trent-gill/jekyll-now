@@ -1,7 +1,7 @@
 ---
 title: Chasing the Impossible Past: How a Band Moves on From Its Masterpiece Album (Dan Ozzi)
 date: 2017-02-09
-layout: external
+layout: post
 external_url: https://noisey.vice.com/en_us/article/chasing-the-impossible-past-how-a-band-moves-on-from-its-masterpiece-album
 ---
 
