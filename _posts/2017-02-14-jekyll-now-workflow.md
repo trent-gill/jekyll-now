@@ -1,0 +1,20 @@
+---
+layout: microblog
+date: 2017-02-14
+categories: microblog
+title: ""
+---
+
+If anyone is curious, I setup this Jekyll blog without touching the command line by using this repository:
+
+* [Jekyll Now](https://github.com/barryclark/jekyll-now)
+
+And in order to quickly publish microblogs from my iPhone and iPad, I'm using this Workflow:
+
+* [Microblog Post to GitHub](https://workflow.is/workflows/8c16e3bedae8476abee62d3ad6a9fc25)
+
+For longer entries, I expect that I'll still work from 1Writer and Working Copy, a powerful Git client for iOS. 
+
+I wrote about setting up that workflow for a site built with Grav, but the process is basically the same:
+
+* [iPad Workflow for Updating Grav via GibHub](/Grav-GitHub-iPad-workflow)
