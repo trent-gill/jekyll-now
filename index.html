@@ -12,7 +12,7 @@ layout: default
     {{ post.content }}
      </div>  
       
-     <div class="read more"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%-d %B %Y"}}</a></div>
+     <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">{{ post.date | date: "%-d %B %Y"}}</a>
       
 {% elsif post.external_url %}
       
@@ -38,7 +38,7 @@ layout: default
       </div>
       
 
-        <div class="read-more"><a href="{{ site.baseurl }}{{ post.url }}">Read More</a></div>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
 {% endif %}
       
 
