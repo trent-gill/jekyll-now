@@ -1,5 +1,5 @@
 ---
-title: Words that need to go away - snub
+title: "Words that need to go away: 'snub'"
 date: 2016-01-15 00:00:00 Z
 ---
 

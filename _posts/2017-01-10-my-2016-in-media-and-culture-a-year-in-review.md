@@ -1,5 +1,5 @@
 ---
-title: My 2016 In Media And Culture - A Year In Review
+title: "2016 In Media And Culture: A Year In Review"
 date: 2017-01-10 00:00:00 Z
 ---
 

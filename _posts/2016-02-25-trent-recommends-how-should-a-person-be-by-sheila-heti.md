@@ -1,5 +1,5 @@
 ---
-title: Trent Recommends - How Should A Person Be By Sheila Heti
+title: "Trent Recommends: 'How Should A Person Be?' by Sheila Heti"
 date: 2016-02-25 00:00:00 Z
 ---
 

@@ -1,9 +1,7 @@
 ---
-title: Bookmarked - Brain Pickings
+title: "Bookmarked: Brain Pickings"
 date: 2016-05-28 00:00:00 Z
 ---
-
-#####The web and the "tyranny of choice"
 
 The "tyranny of choice" is an appropriate way to describe our society's relationship with information and the internet. I plan to eventually write about why the problem of Total Noise is among the most significant intellectual challenges faced by educators, students, parents, ... (this list would never end) in today's world, but for now I'll refer to an essay called [Deciderization 2007](http://neugierig.org/content/dfw/bestamerican.pdf) by David Foster Wallace, still the best thing written about the impact of Total Noise on everyday life.[^1]
 
@@ -23,7 +21,7 @@ Learning to navigate and read the web for trustworthy information is a substanti
 
 I'd like to use this space to highlight independent content creators who, in my estimation, stand out among the Total Noise as invaluable contributors to the conversation.
 
-#####Brain Pickings
+## Brain Pickings
 
 Among my favourite and most visited websites has to be *[Brain Pickings](https://www.brainpickings.org/)*, a blog that doubles as a repository for thoughts about life by interesting thinkers who have left an impression on the writer behind the scenes. She is [Maria Popova](https://www.brainpickings.org/about/), and I love how she describes her purpose:
 
@@ -39,13 +37,13 @@ The unspoken goal of *Brain Pickings* is to make intellectual content more acces
 
 [Her articles](https://www.brainpickings.org/2016/05/25/upstairs-at-the-strand-george-saunders/) also follow an in-house structure: she uses her own understanding to provide commentary that contextualizes and supplements a few select quotes. Her style is what I would call "curational": she shares and annotates pieces of wisdom that help her make sense of the topic, book, or author under discussion. This process provides a window into what we can learn from classic texts and important thinkers.
 
-#####The donation model for independent creators
+## The donation model for independent creators
 
 From what I can tell, *Brain Pickings* is supported primarily by [donations](https://www.brainpickings.org/2015/01/21/bertrand-russell-boredom-conquest-of-happiness/). People who create for the web have been using [Patreon](https://www.patreon.com/) to generate income instead of relying solely on advertising, and *Brain Pickings* is also supported by a subscriber-based model. It gives me hope that the best content can find enough subscribers to sustain the work it takes to create a website like *Brain Pickings*. I also follow [YouTuber CGP Grey](https://www.patreon.com/cgpgrey?ty=h) and [Hack Education's Audrey Watters](https://www.patreon.com/audreywatters?ty=h), who are also independent content creators. Their valuable work benefits the world in countless ways, and I hope that the subscription model is here to stay so that their work can continue.
 
 I mention this here because the business models of content creators matter when I think about how I spend my time online. In an ideal world, independent creators would never compromise the integrity of their work for commercial reasons. I understand that this view is somewhat naïve, but I also believe that we should find ways to support people who share these values.  
 
-#####Humanities, why art thou?
+## Humanities, why art thou?
 
 If you're a humanities graduate and anything like me, you've probably subjected yourself to years of regular existential crises. We're an overly self-conscious bunch, and we like to read and research [*ad infinitum*](https://en.wikipedia.org/wiki/Ad_infinitum). It's especially exhausting, though, when we research our own employability and prospective career paths (if you're lucky enough to have one), and every month there's a new think piece about the "value" of the humanities. I would link you to a critical piece, but I've admittedly stopped reading them because of their impact on my self-worth, so here's [a positive take from the New York Times about Virginia Wolfe and coding](http://www.nytimes.com/2016/05/22/opinion/sunday/to-write-software-read-novels.html?_r=0). (When all else fails, [learn to code, I guess](https://blog.codinghorror.com/please-dont-learn-to-code/).)
 
