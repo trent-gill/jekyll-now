@@ -29,35 +29,35 @@ Most of the buzz right now is around Japandroids' first album in five years, *Ne
 The duo has been through a lot since that release, and it shows in their songwriting. The youthful energy is still there, but it isn't as raw or rough around the edges as in their previous work. *Near to the Wild Heart of Life* is a less gritty album whose anger is subdued and channeled in new ways. A song like "In a Body Like a Grave," a lyrical triumph, shows Japandroids looking at the crisis of middle age with newfound perspective:
 
 > And age is a traitor and, bit by bit
-
+>
 > Less lust for life, more talking shit
-
+>
 > But remember there's heaven in the hellest of holes
-
+>
 > And a drink for the body is a dream for the soul
-
+>
 > Well, tell will time, but best be awares
-
+>
 > That time is money and money swears
-
+>
 > So break the bank like you're breaking a building
-
+>
 > Love so hard that time stands still
-
+>
 > If your name is shame, though your love is loss
-
+>
 > Swap the city's lights for the southern cross
-
+>
 > Gather the gang and make that night
-
+>
 > An ultimatum to the universe, fuck or fight
-
+>
 > From a mirror and crush, to the moment of
-
+>
 > Your karma comes but your love will be lumps
-
+>
 > It's all in a lifetime, but here and now
-
+>
 > Only God knows where and devil knows how
 
 Of course, Japandroids still know how to rock. Lead single "Near to the Wild Heart of Life" sees the duo at their best, and "North East South West" at their most rollicking. These songs wouldn't be out of place on some of rock's most memorable records, but Japandroids' take on classic song structures is always invigorating.
@@ -77,23 +77,23 @@ Check out "No Known Drink or Drug" for a taste:
 I haven't spent as much time with Cloud Nothings' new album, but I like what I hear so far. I'm especially enthralled by "Enter Entirely," a midtempo rock song about idly bearing witness to life as it rolls by:
 
 > And now the lights are turning on here
-
+>
 > My mind has fallen
-
+>
 > And taken everything it knows now
-
+>
 > About belonging
-
+>
 > There's someone I would like to be if I could be but
-
+>
 > The path is frightening
-
+>
 > So when I fall away then I would like to see
-
+>
 > I enter entirely
-
+>
 > My world looks like I had only dreamed
-
+>
 > Cutting up pieces of life and reality
 
 What I like about Dylan Baldi, lead singer and songwriter for Cloud Nothings, is both the strain of his delivery and the way in which he moves between styles. One moment he's angsty and urgent; the next, pensive and resigned. Out of context, the lyrics don't quite measure up to how they're delivered in the song.
@@ -111,15 +111,15 @@ Sorority Noise's new album, cleverly titled *You're Not As ______ As You Think*,
 "No Halo" is about an emotionally distraught narrator whose friend has (probably) committed suicide. It's not a song that'll hit you lightly if you've ever felt responsible for a friend's emotional state, so tread carefully:
 
 > So I didn't show up to you funeral
-
+>
 > But I showed up to your house
-
+>
 > And I didn't move a muscle
-
+>
 > I was quiet as a mouse
-
+>
 > And I swore I saw you in here
-
+>
 > But I was looking at myself
 
 ### The Menzingers - *After the Party*
@@ -129,11 +129,11 @@ Okay, this album isn't out until February (literally, tomorrow), but I've been l
 The Menzingers' brand of uptempo bar rock, with songs about partying and Kerouacian romance, has been a reliable source of energy and comfort since I first heard *Rented World* in 2014. Lyrics from "Lookers" point to a band that has grown past youthful romance, but the raw energy and infectious choruses are still there. I especially like this verse:
 
 > You little Kerouac, always running like Dean and Sal
-
+>
 > Always waiting on a freight train
-
+>
 > Always looking for a story to tell
-
+>
 > But that was the old you, you were such a looker in the old days
 
 With gems like these that make me want to sing along, *After the Party* is sure to be in rotation for a while.
@@ -159,7 +159,5 @@ I'll update this section as I find more good articles about the stuff I mentione
 * [*After The Party* by Philadelphia Punks The Menzingers Is One of Early 2017’s Best Albums - Steven Hyden, Uproxx](http://uproxx.com/music/the-menzingers-after-the-party-greg-barnett/)
 
 > On *After The Party*, The Menzingers have created nothing less than a song cycle about the band’s life up until now, a reflective act inspired by the members all hovering around the age of 30, the unofficial gateway to adulthood. (Barnett is 29, and his bandmates are about two years older.) The characters in the Menzingers’ latest songs no longer have the freedom to hang out all night outside of convenience stores — Barnett and May now write about young men like themselves who are trying to put their hard-partying ways behind them, in order to preserve a more fulfilling existence as partners in long-term relationships.
-
-
 
 [^1]: Hyden puts it this way: "The best rock artists implant these elemental sounds with a new, contemporary sensibility. This push-pull between tradition and modernity has defined rock from the beginning. For rock music in the ’10s, forward-thinking and inclusive millennials are systematically deconstructing the old white-male power structure that defined the genre for decades, effectively re-inventing rock in the 21st century as a form that’s more open and sonically malleable. For those of us who have followed rock for most of our lives, this latest evolution has been exciting to witness."
