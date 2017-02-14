@@ -15,7 +15,7 @@ If I don't "read the news" and don't watch a lot of TV and movies, what is my me
 
 I've separated my media consumption in 2016 by theme. Enjoy!
 
-#####Running
+## Running
 
 I've been an uncommitted runner since my early-20s, when I decided I needed a physical hobby to stay in shape. I returned to it in 2014 and became semi-committed in the spring of 2015. I took the winter off because of some other demands on my time, but in 2016 I trained for [my first marathon](https://www.strava.com/activities/708898723) and [set a personal best](https://www.strava.com/activities/746677522) in the half-marathon.[^5]
 
@@ -36,7 +36,7 @@ I also rely on YouTubers, bloggers, and podcasters to keep me inspired and infor
 * Don Freeman, Scott Warr, and others - [Trail Runner Nation](http://www.trailrunnernation.com/)
 * Bryan Powell, Meghan Hicks, Andy Jones-Wilkins, and others - [iRunFar](http://irunfar.com)
 
-#####Sportsball(!~)
+## Sportsball(!~)
 
 I've tried to learn more about professional running by reading [LetsRun](http://letsrun.com), especially during the Olympics and World Championships, but my main interest in professional sports is basketball. I also follow the Blue Jays since they put together a team worth watching, so I'm a proud Canadian bandwagoner.
 
@@ -59,7 +59,7 @@ As for Blue Jays fandom, there's only a couple guys you should follow to know wh
 
 * Andrew Stoeten and Drew Fairservice - ["Birds All Day"](https://soundcloud.com/birdsallday)
 
-#####Music
+## Music
 
 I used to be a music enthusiast. Over time, my interest in music has waned, and I haven't been deeply into the scene for quite some time. I no longer keep up with new releases like I once did or obsessively curate end-of-year lists, nor do I spend all my time on forums discussing the newest buzz bands. I'll still go to shows occasionally, but it's not a huge part of my lifestyle.
 
@@ -92,7 +92,7 @@ I didn't listen to enough music to write a proper top ten, but here are some oth
 * White Lung - *Paradise*
 * Jimmy Eat World - *Integrity Blues*
 
-#####Tech, Web, Productivity, Education, Humour, and YouTube
+## Tech, Web, Productivity, Education, Humour, and YouTube
 
 [CGP Grey](https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w) and Brady Haran are two of my favourite YouTubers. Their podcast "Hello Internet" is a delight, and I listen to it each time there's a new one in my feed.
 
@@ -106,7 +106,7 @@ The education and tech writers I read frequently include [Audrey Watters](http:/
 
 Whenever I need an easy laugh, I go to my [Reddit front page](http://reddit.com), the home of every joke, story, meme, gag, and hoax on the internet.
 
-#####Gaming
+## Gaming
 
 I only make time to game when there's a game worth playing. Otherwise, I game when I can, and I play iOS games when I can't sleep.
 
@@ -126,10 +126,10 @@ I forget when *Firewatch* came out, but it was a memorable experience when I pla
 
 Gaming journalism is a bit of a mess. I try to read *First Person Scholar* occassionally, and *The Ringer's* Jason Concepcion is doing [some good stuff on games](https://theringer.com/playing-video-games-with-roy-hibbert-9225e4fb7b1d), but if you know of any publications that provide intelligent gaming commentary and analysis, [let me know](http://twitter.com/trent_g).
 
-#####Publications and Aggregators
+## Publications and Aggregators
 I can't possibly list or remember them all, but I collect and read a lot of articles on [Pocket](http://getpocket.com) from publications, which commonly include *The New Yorker*, *The Atlantic*, *Vox*, *The Guardian*, *Reason*, *Longreads*, *The Rumpus*, *The New Inquiry*, *The LA Review of Books*, *The AV Club*, *LitHub*, *The New York Review of Books*, *The Ringer*, *Aeon.co*, *The Walrus*, *New Republic*, *The Millions*, *Quartz*, *FiveThirtyEight*, *New York Magazine*, *The Undefeated*, *Wired*, and *VerySmartBrothas*.
 
-#####Twitter
+## Twitter
 I spend far too much time on Twitter that should be spent reading books, exercising, having a social life, learning, or working on side-projects. Nontheless, I've become a late adopter, despite having an account since 2009 and not really caring about it until 2014. Twitter has emerged as a staple in my media diet because of all the reasons people cite. It is a hub for online activity. It's also endlessly distracting, but that's a fair tradeoff for a stream of content, links, and conversation from almost every person and publication I mentioned already. You just have to know who to follow.
 
 Most of the noteworthy people I follow are above, but here are a few others I recommend checking out:
@@ -153,7 +153,7 @@ Most of the noteworthy people I follow are above, but here are a few others I re
 * Abi Wilkinson ([@AbiWilks](https://twitter.com/AbiWilks))
 * Melissa Gira Grant ([@MelissaGira](https://twitter.com/melissagira))
 
-#####2017
+## 2017
 In 2017, I want to use more of my free time to read books, learn new things, and pick up new skills. I'm currently in a History course, which will help me with two of those, and it's inspiring me to broaden my horizons. I want to read more fiction and more non-fiction about history, science, strategy, philosophy, culture, and meaningful self-help.
 
 My other priority, as always, is to increase my exposure to more diverse and eclectic viewpoints.
@@ -162,7 +162,7 @@ I have mixed feelings about the amount of TV and movies I watch (very little). I
 
 I told myself this fall that *Game of Thrones* is my "winter homework," but I haven't even started season 2, so I have a long way to go.
 
-#####Thoughts on 2016 lists
+## Thoughts on 2016 lists
 Aside from the publications and curators I mentioned above, my media and culture diet has shifted over time towards people: writers, journalists, musicians, professionals, industry leaders, academics, activists, culture enthusiasts, and anyone with something interesting to say. Organizations still play an important role in enabling and providing platforms for that exceptional work, but I've found that tuning into the people doing the work has made it easier to cut through the Noise and figure out how to divvy up my attention.
 
 If you found anything interesting here, or if there's anything you'd like to recommend, [find me on social](http://twitter.com/trent_g).  

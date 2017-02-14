@@ -13,7 +13,7 @@ In order to be an "informed" citizen, whatever we mean by that, you not only hav
 
 <hr>  
 
-###A symptom is not the cause
+### A symptom is not the cause
 
 Visit almost any website in 2017 and you'll find a think piece about "fake news," [an over-simplified scapegoat for various political, social, and cultural problems](http://reallifemag.com/all-i-know-is-whats-on-the-internet/). Here's another line for a thinkpiece I haven't read yet: "Fake news" and its influence are symptoms of how people think about the world.
 
@@ -48,7 +48,7 @@ Instead of focusing so intently on a specific problem ("fake news"), we need to 
 
 <hr>
 
-###Fake news, meet Total Noise
+### Fake news, meet Total Noise
 
 In other words, we need to prepare ourselves for what we're up against. We need to ask ourselves what skills and knowledge we need to make sense of *it*.
 
