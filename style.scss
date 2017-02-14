@@ -23,7 +23,7 @@ body {
 	background: $white;
 	font-family: 'Nunito Sans', sans-serif;
     color: $darkGray;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .container {
@@ -84,6 +84,8 @@ a {
 
 ul, ol {
   margin: 15px 0;
+  font-size: 20px;
+  line-height: 1.4;
   padding-left: 30px;
 }
 
