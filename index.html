@@ -22,7 +22,7 @@ layout: default
        {{ post.content }}
       </div>
       
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">{{ page.date | date: "%-d %B %Y"}}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">{{ post.date | date: "%-d %B %Y"}}</a>
       
       
 {% else %}
