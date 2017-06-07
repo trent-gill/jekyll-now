@@ -45,44 +45,44 @@ Two years ago I ran this same race in 1:33:39. The winner of that year finished 
 
 ### Kilometre Splits
 
-1 | 4:02 
+1: 4:02 
 
-2 | 4:02 
+2: 4:02 
 
-3 | 4:12 
+3: 4:12 
 
-4 | 4:00 
+4: 4:00 
 
-5 | 3:51 
+5: 3:51 
 
-6 | 4:00 
+6: 4:00 
 
-7 | 3:57 
+7: 3:57 
 
-8 | 4:24 
+8: 4:24 
 
-9 | 4:12 
+9: 4:12 
 
-10 | 3:57 
+10: 3:57 
 
-11 | 4:00 
+11: 4:00 
 
-12 | 4:05 
+12: 4:05 
 
-13 | 4:05 
+13: 4:05 
 
-14 | 3:54 
+14: 3:54 
 
-15 | 3:51 
+15: 3:51 
 
-16 | 4:08 
+16: 4:08 
 
-17 | 4:05 
+17: 4:05 
 
-18 | 4:30 
+18: 4:30 
 
-19 | 4:12 
+19: 4:12 
 
-20 | 3:53 
+20: 3:53 
 
 *This post was generated using [the new race reportr](https://martellaj.github.io/race-reportr/), a tool built by [/u/BBQLays](https://www.reddit.com/u/bbqlays) for making organized, easy-to-read, and beautiful race reports.*
