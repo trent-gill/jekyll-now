@@ -13,10 +13,9 @@ category: blog
 * **Strava activity:** [https://www.strava.com/activities/1009915579](https://www.strava.com/activities/1009915579)
 
 ### Goals
-| Goal | Description |
-|------|-------------|
-| A | Sub 80 / 1:20 |
-| B | Top 3 |
+
+A: Sub 80 / 1:20
+B: Top 3
 
 ### Pictures
 * [Knee-locked stride](https://trent-gill.github.io/images/YMCA20k.png)
@@ -41,29 +40,27 @@ After I finished, I congratulated the winner on his race. Friends of mine were a
 
 Two years ago I ran this same race in 1:33:39. The winner of that year finished at least 12 minutes before me, and I remember someone dismissing my time and placement by saying that "12 minutes is a lot at the level." I will never forget that comment, and I'll enjoy my 14 minute improvement until I'm moving on to the next goal. Three weeks until the Manitoba Marathon!
 
-### Splits
-| Kilometre | Time |
-|------|------|
-| 1 | 4:02 |
-| 2 | 4:02 |
-| 3 | 4:12 |
-| 4 | 4:00 |
-| 5 | 3:51 |
-| 6 | 4:00 |
-| 7 | 3:57 |
-| 8 | 4:24 |
-| 9 | 4:12 |
-| 10 | 3:57 |
-| 11 | 4:00 |
-| 12 | 4:05 |
-| 13 | 4:05 |
-| 14 | 3:54 |
-| 15 | 3:51 |
-| 16 | 4:08 |
-| 17 | 4:05 |
-| 18 | 4:30 |
-| 19 | 4:12 |
-| 20 | 3:53 |
+### Kilometre Splits
 
+1 | 4:02 
+2 | 4:02 
+3 | 4:12 
+4 | 4:00 
+5 | 3:51 
+6 | 4:00 
+7 | 3:57 
+8 | 4:24 
+9 | 4:12 
+10 | 3:57 
+11 | 4:00 
+12 | 4:05 
+13 | 4:05 
+14 | 3:54 
+15 | 3:51 
+16 | 4:08 
+17 | 4:05 
+18 | 4:30 
+19 | 4:12 
+20 | 3:53 
 
 *This post was generated using [the new race reportr](https://martellaj.github.io/race-reportr/), a tool built by [/u/BBQLays](https://www.reddit.com/u/bbqlays) for making organized, easy-to-read, and beautiful race reports.*
