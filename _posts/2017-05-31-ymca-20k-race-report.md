@@ -1,5 +1,5 @@
 ---
-title: YMCA Spring Run [Race Report]
+title: Race Report: YMCA Spring Run
 date: 2017-05-31
 category: blog
 ---
